@@ -7,7 +7,7 @@ echo -e press  "\033[41;37m Ctrl+C \033[0m"  to exit
 echo -n "Enter your test URL(with http://):"
 read  test_URL   
 finished_times=0
-for i in {1..100}
+while :
 do
 finished_times=$(($finished_times+1))
 wget $test_URL -q --show-progress -O testfile.test
