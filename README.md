@@ -1,5 +1,5 @@
 # Loop-Downloader
-一个可以循环下载指定URL的脚本
+一个可以循环下载指定URL的脚本<br>
 最好使用Ubuntu，否则可能会有奇奇怪怪的问题出现
 Windows版本仅支持Windows 10或Windows Server 2016及以上
 ## 使用：
