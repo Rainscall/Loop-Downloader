@@ -4,3 +4,7 @@
 ```
   wget --no-check-certificate https://cdn.jsdelivr.net/gh/Ashes26/Loop-Downloader/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
 ```
+# 测试链接示例：
+```
+http://cachefly.cachefly.net/100mb.test
+```
