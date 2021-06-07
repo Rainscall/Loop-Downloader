@@ -24,3 +24,7 @@ http://lg.cera-gen2.lax.50network.com/1GB.test
 ```
 https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/bionic/ubuntu-18.04.5-live-server-amd64.iso
 ```
+## 使用截图：
+![Linux](https://img.typeboom.com/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-07%20204858.png)
+
+![Windows10](https://img.typeboom.com/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-07%20205252.png)
