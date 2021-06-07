@@ -9,7 +9,7 @@ Linux：
 ```
 Windows：
 ```
-curl --output Loop-Downloader-Windows.bat -s https://cdn.jsdelivr.net/gh/Ashes26/Loop-Downloader/Loop-Downloader-Windows.bat && Loop-Downloader-Windows.bat
+curl --output Loop-Downloader-Windows.bat -s https://raw.githubusercontent.com/Ashes26/Loop-Downloader/main/Loop-Downloader-Windows.bat && Loop-Downloader-Windows.bat
 ```
 ## 测试链接示例：
 ```
