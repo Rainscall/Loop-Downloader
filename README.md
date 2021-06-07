@@ -11,3 +11,6 @@ http://cachefly.cachefly.net/100mb.test
 ```
 http://lg-sj.racknerd.com/1000MB.test
 ```
+```
+http://lg.cera-gen2.lax.50network.com/1GB.test
+```
