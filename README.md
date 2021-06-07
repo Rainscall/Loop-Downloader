@@ -21,3 +21,6 @@ http://lg-sj.racknerd.com/1000MB.test
 ```
 http://lg.cera-gen2.lax.50network.com/1GB.test
 ```
+```
+https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/bionic/ubuntu-18.04.5-live-server-amd64.iso
+```
