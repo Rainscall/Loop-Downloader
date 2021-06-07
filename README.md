@@ -5,7 +5,7 @@ Windows版本仅支持Windows 10或Windows Server 2016及以上
 ## 使用：
 Linux：
 ```
-  wget --no-check-certificate https://cdn.jsdelivr.net/gh/Ashes26/Loop-Downloader/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
+  wget --no-check-certificate https://quick-mirror-cn2-gia.typeboom.com/Github_File/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
 ```
 Windows：
 ```
