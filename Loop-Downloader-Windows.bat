@@ -8,7 +8,7 @@ set /a finished_times=0
 set /p URL=Enter your test URL:
 :Loop
 echo Downloading....
-curl --output testfile.test  -s %URL%
+curl -s %URL% > testfile.test
 del testfile.test
 set /a finished_times=finished_times+1
 echo Test !finished_times! completed
