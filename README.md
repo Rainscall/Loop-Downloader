@@ -11,6 +11,15 @@ Windows：
 ```
 curl --output Loop-Downloader-Windows.bat -s https://quick-mirror-cn2-gia.typeboom.com/Github_File/Loop-Downloader-Windows.bat && Loop-Downloader-Windows.bat
 ```
+使用官方MIUI12.0.3的Mix2S：
+下载这个文件到本地
+Loop-downloader-Android-Mix2S-MIUI-juiceSSH.sh
+然后打开juiceSSH，创建一个本地连接
+然后cd到文件所在位置
+执行：
+```
+bash Loop-downloader-Android-Mix2S-MIUI-juiceSSH.sh
+```
 ## 测试链接示例：
 ```
 http://cachefly.cachefly.net/100mb.test
