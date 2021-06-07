@@ -1,6 +1,6 @@
 # Loop-Downloader
 一个可以循环下载指定URL的脚本<br>
-最好使用Ubuntu，否则可能会有奇奇怪怪的问题出现
+最好使用Ubuntu，否则可能会有奇奇怪怪的问题出现<br>
 Windows版本仅支持Windows 10或Windows Server 2016及以上
 ## 使用：
 Linux：
@@ -11,15 +11,16 @@ Windows：
 ```
 curl --output Loop-Downloader-Windows.bat -s https://quick-mirror-cn2-gia.typeboom.com/Github_File/Loop-Downloader-Windows.bat && Loop-Downloader-Windows.bat
 ```
-使用官方MIUI12.0.3的Mix2S：
-下载这个文件到本地
+使用官方MIUI12.0.3的Mix2S：<br>
+下载这个文件到本地<br>
 Loop-downloader-Android-Mix2S-MIUI-juiceSSH.sh
-然后打开juiceSSH，创建一个本地连接
-然后cd到文件所在位置
+然后打开juiceSSH，创建一个本地连接<br>
+然后cd到文件所在位置<br>
 执行：
 ```
 bash Loop-downloader-Android-Mix2S-MIUI-juiceSSH.sh
 ```
+即可使用
 ## 测试链接示例：
 ```
 http://cachefly.cachefly.net/100mb.test
