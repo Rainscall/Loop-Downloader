@@ -1,7 +1,7 @@
 # Loop-Downloader
 一个可以循环下载指定URL的脚本<br>
 最好使用Ubuntu，否则可能会有奇奇怪怪的问题出现<br>
-Windows版本仅支持Windows 10或Windows Server 2016及以上部分<br>
+Windows版本支持Windows 7及以上，或Windows Server 2012及以上<br>
 Android版本需要手机支持bash，curl，echo命令<br>
 下载Loop-downloader-Android.sh到本地<br>
 打开juiceSSH，创建一个本地连接<br>
