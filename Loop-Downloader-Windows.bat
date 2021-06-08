@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 cls
-echo This script only supports Windows 10 or Windows Server 2016 and above
+echo This script only supports Windows 7 and above or Windows Server 2012 and above
 echo Start test
 echo Press Ctrl+C to exit
 set /a finished_times=0
