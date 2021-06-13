@@ -1,3 +1,9 @@
+trap 'onCtrlC' INT
+function onCtrlC () {
+    rm -f testfile.test
+    echo -e '\nBye'
+    exit 0
+}
 clear
 rm -f testfile.test
 rm -f testfile.test.*
