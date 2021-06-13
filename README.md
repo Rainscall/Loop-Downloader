@@ -16,7 +16,7 @@ wget --no-check-certificate https://img.typeboom.com/Github_File/Loop-Downloader
 ```
 备用：
 ```
-wget --no-check-certificate wget --no-check-certificate https://img.typeboom.com/Github_File/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
+wget --no-check-certificate https://cdn.jsdelivr.net/gh/Ashes26/Loop-Downloader@main/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
 ```
 Windows：
 ```
