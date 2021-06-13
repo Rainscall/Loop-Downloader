@@ -14,10 +14,6 @@ Linux：
 ```
 wget --no-check-certificate https://img.typeboom.com/Github_File/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
 ```
-备用：
-```
-wget --no-check-certificate https://cdn.jsdelivr.net/gh/Ashes26/Loop-Downloader@main/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
-```
 Windows：
 ```
 curl --output Loop-Downloader-Windows.bat -s https://img.typeboom.com/Github_File/Loop-Downloader-Windows.bat && Loop-Downloader-Windows.bat
@@ -46,3 +42,7 @@ http://speedtest-nyc1.digitalocean.com/1gb.test
 ![Linux](https://img.typeboom.com/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-07%20204858.png)
 
 ![Windows10](https://img.typeboom.com/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-07%20205252.png)
+备用Linux版一键脚本：
+```
+wget --no-check-certificate https://cdn.jsdelivr.net/gh/Ashes26/Loop-Downloader@main/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
+```
