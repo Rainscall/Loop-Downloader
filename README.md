@@ -12,11 +12,11 @@ bash Loop-downloader-Android.sh
 ## 使用：
 Linux：
 ```
-  wget --no-check-certificate https://quick-mirror-cn2-gia.typeboom.com/Github_File/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
+  wget --no-check-certificate https://img.typeboom.com/Github_File/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
 ```
 Windows：
 ```
-curl --output Loop-Downloader-Windows.bat -s https://quick-mirror-cn2-gia.typeboom.com/Github_File/Loop-Downloader-Windows.bat && Loop-Downloader-Windows.bat
+curl --output Loop-Downloader-Windows.bat -s https://img.typeboom.com/Github_File/Loop-Downloader-Windows.bat && Loop-Downloader-Windows.bat
 ```
 Android：
 ```
