@@ -28,16 +28,14 @@ if [ $IPV6 -eq 0 ]; then
 while :
 do
 finished_times=$(($finished_times+1))
-wget $test_URL -q --show-progress -O testfile.test
-rm testfile.test
+wget $test_URL -q --show-progress -O /dev/null --no-check-certificate
 echo -e  Test "\033[41;37m $finished_times \033[0m" completed
 done
 elif [ $IPV6 -eq 1 ]; then
 while :
 do
 finished_times=$(($finished_times+1))
-wget --inet6-only $test_URL -q --show-progress -O testfile.test
-rm testfile.test
+wget --inet6-only $test_URL -q --show-progress -O /dev/null --no-check-certificate
 echo -e  Test "\033[41;37m $finished_times \033[0m" completed
 done
 fi
