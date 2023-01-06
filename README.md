@@ -24,13 +24,10 @@ bash Loop-downloader-Android.sh
 ```
 ## 测试链接示例：
 ```
-http://cachefly.cachefly.net/100mb.test
+http://cachefly.cachefly.net/200mb.test
 ```
 ```
 http://lg-sj.racknerd.com/1000MB.test
-```
-```
-http://lg.cera-gen2.lax.50network.com/1GB.test
 ```
 ```
 https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/bionic/ubuntu-18.04.5-live-server-amd64.iso
@@ -44,5 +41,5 @@ http://speedtest-nyc1.digitalocean.com/1gb.test
 ![Windows10](https://img.typeboom.com/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-07%20205252.png)
 备用Linux版一键脚本：
 ```
-wget --no-check-certificate https://cdn.jsdelivr.net/gh/Ashes26/Loop-Downloader@main/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
+https://raw.githubusercontent.com/Ashes26/Loop-Downloader/main/Loop-Downloader.sh
 ```
