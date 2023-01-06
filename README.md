@@ -41,5 +41,5 @@ http://speedtest-nyc1.digitalocean.com/1gb.test
 ![Windows10](https://img.typeboom.com/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-07%20205252.png)
 备用Linux版一键脚本：
 ```
-https://raw.githubusercontent.com/Ashes26/Loop-Downloader/main/Loop-Downloader.sh
+wget --no-check-certificate https://raw.githubusercontent.com/Ashes26/Loop-Downloader/main/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
 ```
