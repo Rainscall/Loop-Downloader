@@ -12,7 +12,7 @@ bash Loop-downloader-Android.sh
 ## 使用：
 Linux：
 ```
-wget --no-check-certificate https://img.typeboom.com/Github_File/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
+wget --no-check-certificate https://cdn.jsdelivr.net/gh/Ashes26/Loop-Downloader@main/Loop-Downloader.sh -O Loop-Downloader.sh && bash Loop-Downloader.sh
 ```
 Windows：
 ```
